@@ -6,11 +6,10 @@
 - 👯 I’m looking to collaborate on a new project
   
 - 🤔 I’m looking for help with ...
- Ideation
- Tech Expertise
+      Ideation
+      **Tech Expertise**
   Networking
-
-Feel free to reach out if you're interested in any of these areas or if you have unique insights to share. Let's learn, grow, and collaborate in this ever-evolving journey! 🌐💡
+ Feel free to reach out if you're interested in any of these areas or if you have unique insights to share. Let's learn, grow, and collaborate in this ever-evolving journey! 🌐💡
 
 - Areas I'm particularly interested in:
        **🎸 Coding and Music:** If you enjoy both coding and playing the guitar, let's team up on projects where we can blend the rhythm of coding with the melody of guitar strings. Let's create a harmonious 
