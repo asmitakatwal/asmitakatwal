@@ -5,18 +5,20 @@
 - 🌱 I’m currently learning time management, Networking and Communication Skills
 - 👯 I’m looking to collaborate on a new project
   
-- 🤔 I’m looking for help with ...
-      Ideation
-      **Tech Expertise**
-  Networking
+- 🤔 I’m looking for help with 
+  - Ideation
+  -**Tech Expertise**
+  - Networking
  Feel free to reach out if you're interested in any of these areas or if you have unique insights to share. Let's learn, grow, and collaborate in this ever-evolving journey! 🌐💡
 
 - Areas I'm particularly interested in:
-       **🎸 Coding and Music:** If you enjoy both coding and playing the guitar, let's team up on projects where we can blend the rhythm of coding with the melody of guitar strings. Let's create a harmonious 
-  coding session!
+  **🎸 Coding and Music:** If you enjoy both coding and playing the guitar, let's team up on projects where we can blend the rhythm of coding with the melody of guitar 
+       strings. Let's create a harmonious 
+       coding session!
    
-- **Collaboration Opportunities:** If you have a project, idea, or initiative you're working on and are open to collaboration, I'm eager to bring my skills and perspectives to the table.
-- **Networking:** Whether you're an entrepreneur, investor, or someone with a keen interest in startups, let's connect! I believe in the power of a diverse network to exchange ideas and foster mutual 
+    **Collaboration Opportunities:** If you have a project, idea, or initiative you're working on and are open to collaboration, I'm eager to bring my skills and 
+    perspectives to the table.
+     **Networking:** Whether you're an entrepreneur, investor, or someone with a keen interest in startups, let's connect! I believe in the power of a diverse network to exchange ideas and foster mutual 
   growth.
 - **Brainstorming Sessions:** If you enjoy bouncing around ideas and brainstorming on potential business ventures, I'd love to engage in collaborative sessions where creativity knows no bounds.
 
