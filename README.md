@@ -1,4 +1,4 @@
-## Console.log(Greetings,developers)
+###  Hi😃 Console.log(Greetings,developers)
 
 
 
@@ -36,9 +36,8 @@
 
 ### 🚀 Personal Interests:
 
-- **Musical Maestro:** Beyond coding, you'll find me strumming the strings of my guitar, blending melodies with code.
-- **Art Enthusiast:** Passionate about painting, adding a touch of creativity to both digital and
-
+- **Musical Maestro: Beyond coding, you'll find me strumming the strings of my guitar, blending melodies with code.
+- **Art Enthusiast: Passionate about painting, adding a touch of creativity
 
 ## 🛠️ My Skills
 
