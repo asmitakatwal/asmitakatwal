@@ -44,31 +44,31 @@ Feel free to reach out if you're interested in any of these areas or if you have
 
 ## My Skills
 
- Version Control - Git & GitHub:
+- Version Control - Git & GitHub:
       Managed collaborative projects on GitHub, utilizing Git for version control to track changes and facilitate team collaboration
-  HTML: 
+-  HTML: 
       Strong understanding and application of HTML for structuring web content.   
-  CSS:
+ - CSS:
      Proficient in styling web pages using CSS.
- Python:
+- Python:
       Proficient in Python programming language.  
-JavaScript:
+-JavaScript:
       Strong command of JavaScript for frontend and backend development.
-React:
+-React:
       Extensive experience in building user interfaces with React.
-Node.js:
+-Node.js:
      Proficient in server-side development with Node.js.
-Django:
+-Django:
      Skilled in developing web applications using the Django framework.
 
 
  Business and Soft Skills:
  
-Project Management (Agile, Scrum):
+-Project Management (Agile, Scrum):
 Learn methodologies for effective project management.
-Leadership Skills:
+-Leadership Skills:
 Develop skills in leading and motivating teams.
-Negotiation Skills:
+-Negotiation Skills:
 Enhance your ability to negotiate effectively in professional settings.
 
 
