@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **to balance growth,patience and kind to myself everyday both in tech and in life**
+I’m currently learning **to balance growth,patience and kind to myself everyday both in tech and in life**
 
- 💬 Ask me about 
+ 💬 Ask me about <br>
 -Life as a software engineering student <br>
 -Why I am exploreing AI/ML,cloud computing <br>
 -Participating in hackathons,tech events and student communities <br>
