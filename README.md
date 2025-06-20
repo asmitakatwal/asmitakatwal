@@ -9,14 +9,14 @@
 
 - 🌱 I’m currently learning **to balance growth,patience and kind to myself everyday both in tech and in life**
 
-- 💬 Ask me about **
+ 💬 Ask me about 
 -Life as a software engineering student
-Why I am exploreing AI/ML,cloud computing
-Participating in hackathons,tech events and student communities
-How I stay motivated ad things that inspire me
-my curiosity for startups,innovation and entrepreneurship
-music,and TED Talks I enjoy
-- **
+-Why I am exploreing AI/ML,cloud computing
+-Participating in hackathons,tech events and student communities
+-How I stay motivated ad things that inspire me
+-my curiosity for startups,innovation and entrepreneurship
+-music,and TED Talks I enjoy
+  
 
 - 📫 How to reach me **asmitakatwal246@gmail.com**
 
