@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asmita katwal</h1>
-<h3 align="center">A passionate Software Engineering student exploring Web Development, DevOps & Cybersecurity | Tech enthusiast | Lifelong learner 🎓💻🚀</h3>
+<h3 align="center">A passionate Software Engineering student exploring Web Development,AI/ML and cloud computing 🎓💻🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif">
 
 
@@ -7,9 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **to balance growth,patience and kind to myself everyday both in tech and in life**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **
+-Life as a software engineering student
+Why I am exploreing AI/ML,cloud computing
+Participating in hackathons,tech events and student communities
+How I stay motivated ad things that inspire me
+my curiosity for startups,innovation and entrepreneurship
+music,and TED Talks I enjoy
+- **
 
 - 📫 How to reach me **asmitakatwal246@gmail.com**
 
