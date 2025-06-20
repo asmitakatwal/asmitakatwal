@@ -13,14 +13,14 @@ I’m currently learning **to balance growth,patience and kind to myself everyda
 -Life as a software engineering student <br>
 -Why I am exploreing AI/ML,cloud computing <br>
 -Participating in hackathons,tech events and student communities <br>
--How I stay motivated ad things that inspire me <br>
+-How I stay motivated and things that inspire me <br>
 -my curiosity for startups,innovation and entrepreneurship <br>
 -music,and TED Talks I enjoy <br>
   
 
 - 📫 How to reach me **asmitakatwal246@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact ** I have a funny side that most people don’t see!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
